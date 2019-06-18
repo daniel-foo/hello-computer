@@ -1,2 +1,4 @@
 # hello-computer
-This is my first project
+This is my second project
+
+I am learning python in this project.
